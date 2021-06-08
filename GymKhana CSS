@@ -1,0 +1,86 @@
+body{
+    background-image: url(https://images.firstpost.com/wp-content/uploads/2020/07/gym-shutterstock-640.jpg?impolicy=website&width=640&height=363);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.navitem{
+    margin-top: 8px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    font-weight: bolder;
+    margin: 0 10px;
+
+}
+input{
+    display: block;
+}
+.input{
+    margin: auto;
+    margin-top:10px ;
+    text-align: center;
+}
+#centerItems{
+    font-size: medium;
+}
+#button{
+    width: 170px;
+    border-radius: 7px;
+}
+.nav_container{
+    display: inline;
+}
+.container{
+    float: left;
+    margin-top: 10%;
+    display: inline-block;
+    height: 40%;   
+    width: 40%;
+    border: black solid 5px;
+    background-color: rgba(0,0,0,0.4);
+    padding: 10px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+h2{
+    text-align: center;
+}
+
+.btn{
+    background: none;
+    padding:5px ;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.4);
+    float: right;
+    margin: 0 5px;
+    margin-top: 2px;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+}
+span{
+    padding: 5px;
+    margin-left: 5px;
+    font-size: 25px;
+    color: black;
+    float: left;
+}
+nav{
+    background-color: rgba(0,0,0,0.3);
+    margin: 0px;
+    border-radius: 5px;
+    height: 35px;
+}
+ul{
+    margin: 0px;
+    margin-bottom: 50px;
+}
+body{
+    margin: 0px;
+}
