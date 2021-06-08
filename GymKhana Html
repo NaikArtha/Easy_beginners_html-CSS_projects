@@ -1,0 +1,32 @@
+<!--CSS part of the code is in the same repository named "GymKhana CSS"-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GymKhana</title>
+    <link rel="stylesheet" href="Gym Website.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <span><li><a href="#" class="home"><img src="gym_icon.png" class="icon">Home</a></li></span>
+            <li class="navitem">About Us</li>
+            <li class="navitem"><a href="https://www.calculator.net/ideal-weight-calculator.html?ctype=metric&cage=19&csex=f&cheightfeet=5&cheightinch=10&cheightmeter=168&printit=0&x=61&y=9" class="link" target="_blank">Fittness Calculater</a></li>
+            <li class="navitem">Contact Us</li>  
+        <button class="btn" href="#">Call Us Now</button>
+        <button class="btn" href="#">Email Us</button></ul>  
+    </nav>
+    <div class="container">
+        <h2>Join GymKhana Now!!</h2>
+        <form>
+            <input type="text" placeholder="Enter your Name" class="input">
+            <input type="number" placeholder="Enter your Age" class="input">
+            <input type="text" placeholder="Enter your Gender" class="input">
+            <input type="text" placeholder="Enter your Locality" class="input">
+            <input type="submit" value="Submit" id="button" class="input">
+        </form>
+    </div>
+</body>
+</html>
