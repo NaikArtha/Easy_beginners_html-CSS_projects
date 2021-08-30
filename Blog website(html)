@@ -1,0 +1,37 @@
+<!-- Css part of the code is in the same repository named Blog website(Css)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="hexcoders01.css">
+</head>
+<body>
+    <div id= "container">
+        <div id="header">
+            <h1>My Website</h1>
+        </div>
+        <div id="content">
+            <div id="nav">
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="" class="selected">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Content</a></li>
+                </ul>
+            </div>
+            <div id="main">
+                <h2>Home page</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, ipsam id ipsa nam sint ut possimus aut neque quibusdam quo? Esse cumque alias vitae sunt sit sapiente delectus atque Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi incidunt, nam aliquam veniam corrupti, minima dolores praesentium blanditiis laudantium fugiat, in animi maiores illo obcaecati voluptatum impedit aliquid. Dolorum illum praesentium perspiciatis iusto veniam ullam rerum alias, tenetur nihil animi debitis sapiente itaque, repellat culpa natus eligendi quisquam quo atque, in commodi? Ex possimus sunt ut molestias in minima quo, consectetur soluta porro ipsa neque modi a, debitis veritatis ratione doloribus, voluptas aut dolor fugiat dolores obcaecati eum ducimus. Voluptatum officiis vitae est esse nam hic eaque facere obcaecati perferendis?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi tempore provident, numquam asperiores sapiente aperiam! Nemo iusto nulla officiis quidem, minima adipisci voluptates quod unde blanditiis explicabo? Labore ratione vel sequi quae dolor et tenetur alias voluptatibus blanditiis temporibus laudantium, nostrum veniam? Eos illum amet iure vitae adipisci fugiat, eum, numquam nam accusantium doloribus id quis nisi autem mollitia consequuntur ut fuga? Similique placeat itaque asperiores. In laudantium ratione fuga quas quidem voluptate asperiores laboriosam ea recusandae iure quae delectus repellendus ad, repellat officiis labore esse alias voluptatibus sed provident error dolore ipsum praesentium. Adipisci, officia. Dolor doloribus totam deserunt.</p>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda culpa corporis magni adipisci eius? Quis libero qui molestiae adipisci ea quidem dolore aspernatur enim nesciunt ut provident deserunt officia, commodi dicta praesentium non quia magnam, minus velit nemo saepe deleniti voluptatem. Quos rerum illum, deleniti earum autem voluptatibus deserunt dicta fugit inventore minus dolor quam eveniet nostrum obcaecati alias necessitatibus cupiditate consequatur esse. Fuga, dolorem eligendi nobis assumenda quia, qui necessitatibus similique minima alias nemo in ab blanditiis cumque voluptate adipisci odio aspernatur nam iste aut tempore rerum. Porro, illum adipisci? Doloremque quo culpa odit laudantium odio, aspernatur eum velit pariatur facere quia, aut atque assumenda! Aliquid distinctio dolor autem eveniet numquam.</p>
+            </div>
+        </div>
+        <div id="footer">
+            <p> Copyright &copy; 2014 ArthaNaik</p>
+        </div>
+    </div>
+</body>
+</html>
